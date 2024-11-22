@@ -9,7 +9,7 @@
 
 # 0. Getting Started (시작하기)
 ```bash
-$ npm start
+$ docker pull 2btlfe/lbc_famix
 ```
 <br/>
 <br/>
