@@ -7,9 +7,18 @@
 <br/>
 <br/>
 
-# 0. Getting Started (시작하기)
+# Getting Started (시작하기)
 ```bash
 $ docker pull 2btlfe/lbc_famix
+```
+
+- Train
+```bash
+$ basth tools/train.sh
+```
+- Train
+```bash
+$ basth tools/test.sh
 ```
 <br/>
 <br/>
