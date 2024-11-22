@@ -16,7 +16,7 @@ $ docker pull 2btlfe/lbc_famix
 ```bash
 $ basth tools/train.sh
 ```
-- Train
+- Test
 ```bash
 $ basth tools/test.sh
 ```
