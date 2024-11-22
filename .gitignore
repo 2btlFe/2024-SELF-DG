@@ -1,0 +1,13 @@
+*.jpg
+*.txt
+*.pth
+*.pkl
+runs/
+*.pyc
+*.png
+*.log
+
+work_dirs/
+*events*
+oracle_style/
+*ckpt*
